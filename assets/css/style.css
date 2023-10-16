@@ -8,6 +8,23 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.navbar {
+  background-color: #ffffff; /* Fondo blanco */
+  padding: 10px 20px; /* Espaciado interno */
+  border-bottom: 1px solid #dee2e6; /* Borde inferior */
+}
+
+.navbar a {
+  color: #495057; /* Color del texto de los enlaces */
+  margin-right: 15px; /* Espaciado entre enlaces */
+  text-decoration: none; /* Sin subrayado en los enlaces */
+  font-weight: bold; /* Texto en negrita */
+}
+
+.navbar a:hover {
+  color: #007bff; /* Cambiar color al pasar el mouse sobre los enlaces */
+}
+
 :root {
   scroll-behavior: smooth;
 }
