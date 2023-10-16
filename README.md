@@ -20,7 +20,7 @@ Para utilizar este proyecto y acceder a la información detallada de los product
 
 Clona el Repositorio:
 
-git clone https://github.com/tu-usuario/mi-proyecto.git
+git clone https://github.com/tincke10/TP3-1.git
 cd mi-proyecto
 Ejecuta el Proyecto:
 
